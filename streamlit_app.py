@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 from PIL import Image
 
-qr_image = Image.open("1000079554.jpg")
+#qr_image = Image.open("1000079554.jpg")
 # App Config
 st.set_page_config(page_title="AI Image Generator & Monetization", page_icon="🎨", layout="centered")
 
